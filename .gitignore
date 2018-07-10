@@ -1,32 +1,19 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+ {"version_code": 354664, "content": "
+<p>HPWhatsApp 6.5 by Héctor Paez</p>
+            _10/07/2018
+* Se agregó Multichat (mod 12.6)
+* Se agregó una pantalla de actualizaciones
+* Reducción de color en pantalla principal
+* Barra de ajustes modificada
+* Se agregó un botón de texto automático (mod 12.2)
+* Ahora puedes alinear y ocultar nombre de la pantalla de conversacion (mod 1.1.15).
+* Nueva pestaña 12 HPMODS.
+* Nuevas burbujas y TickStyle
+* Estados en vídeo ilimitados
+* Nuevo Wallpaper en toda la estructura
+* Nuevos sonidos Esclusivos
+* Variantes de emojis(mod 12.5)
+* Estilo de paneles (mod 12.0)
+* Estilo de entrada de texto (mod 12.4)
+* Estilo de burbujas de chat (mod 12.1)
+* Errores pequeños corregidos
